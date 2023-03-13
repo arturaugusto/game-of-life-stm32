@@ -6,8 +6,8 @@
 //!      Display -> Blue Pill
 //! (black)  GND -> GND
 //! (red)    +5V -> VCC
-//! (yellow) SDA -> PB9
-//! (green)  SCL -> PB8
+//! (yellow) SDA -> PB7
+//! (green)  SCL -> PB6
 //! ```
 //!
 
